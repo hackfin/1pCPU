@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.70 (w)1999-2016 BSI
+[*] Mon Mar  8 11:13:41 2021
+[*]
+[dumpfile] "/media/scratch/tmp/jupyosys-workspace/1pCPU/dump_mapped.vcd"
+[dumpfile_mtime] "Mon Mar  8 11:03:00 2021"
+[dumpfile_size] 742448
+[savefile] "/media/scratch/tmp/jupyosys-workspace/1pCPU/processor.sav"
+[timestart] 0
+[size] 818 395
+[pos] -347 -61
+*-19.559238 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_implementation.
+[sst_width] 200
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 80
+@8022
+[color] 6
+top_implementation.cpu_a.adr[15:0]
+@20001
+-
+@28
+top_implementation.cpu_a.clk
+@22
+top_implementation.cpu_a.data_in[7:0]
+top_implementation.cpu_a.data_out[7:0]
+@28
+top_implementation.cpu_a.rst
+top_implementation.cpu_a.we
+[pattern_trace] 1
+[pattern_trace] 0
